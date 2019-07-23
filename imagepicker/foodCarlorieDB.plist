@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>foodCarlorieDB</key>
+        <array>
+            <array>
+                <string>apple</string>
+                <string>81</string>
+            </array>
+            <array>
+                <string>tomato</string>
+                <string>26</string>
+            </array>
+            <array>
+                <string>banana</string>
+                <string>105</string>
+            </array>
+        </array>
+    </dict>
+</plist>
+
